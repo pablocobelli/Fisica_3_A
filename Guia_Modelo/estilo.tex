@@ -1,0 +1,105 @@
+%----------------------------------------------------------
+% Agrega al path de figuras el subdirectorio con el mismo
+%     nombre que el archivo principal del proyecto
+\graphicspath{{./\jobname/}}
+
+%----------------------------------------------------------
+% Definicion del entorno 'sabermas'
+\makeatletter
+\definecolor{shadecolor}{rgb}{0.89,0.91,0.94}
+\newenvironment{sabermas}[1]{%
+\vfill
+\begin{shaded}
+  \begin{center}
+  {\textsection{Para saber m\'as}}
+  \end{center}
+  #1
+\sf } 
+{%
+\end{shaded}%
+}
+\makeatother
+
+%----------------------------------------------------------
+% Definicion del entorno 'problema'
+\newcounter{ContadorProblema}
+\setcounter{ContadorProblema}{0}
+\newcounter{TieneFiguraAsociada}
+\setcounter{TieneFiguraAsociada}{0}
+\newcounter{UbicacionFigura}
+\setcounter{UbicacionFigura}{0}
+
+\newenvironment{problema}[2][]
+{%
+    \ifx\relax#1\relax%
+        \setcounter{TieneFiguraAsociada}{0}
+        \else
+        \setcounter{TieneFiguraAsociada}{1}
+    \fi
+    \def \archivofigura {#1}
+    % 
+    \refstepcounter{ContadorProblema}
+    \noindent%
+    \ifnum\value{TieneFiguraAsociada} < 1%
+        {\sffamily \bfseries Problema \arabic{ContadorProblema}.}
+        %{\sc {#1}}%
+        \par\nobreak\par\nobreak%
+        \medskip 
+    \else
+        % Va con figura; resta determinar de que lado.
+        \ifnum\value{UbicacionFigura} < 1
+            % Poner la figura del lado derecho
+            \begin{minipage}{12.25cm}
+            {\sffamily \bfseries Problema \arabic{ContadorProblema}.}
+            %{\sc {#1}}%
+            \par\nobreak\par\nobreak%
+            \medskip 
+        \else
+            % Poner la figura del lado izquierdo
+            \begin{minipage}{4.5cm}
+                \centering
+                \includegraphics[width=4.5cm]{\archivofigura}
+                {\footnotesize {\sffamily Esquema asociado al 
+                problema \arabic{ContadorProblema}}.}
+            \end{minipage}\hfill%
+            \begin{minipage}{12.25cm}
+                {\sffamily \bfseries Problema \arabic{ContadorProblema}.}
+                %{\sc {#1}}%
+                \par\nobreak\par\nobreak%
+                \medskip 
+        \fi
+    \fi
+}
+{%
+    \ifnum\value{TieneFiguraAsociada} < 1%
+        % \par \bigskip \vskip 0.3cm
+    \else
+        % Va con figura; resta determinar de que lado.
+        \ifnum\value{UbicacionFigura} < 1
+            % Poner la figura del lado derecho
+            \end{minipage}\hfill%
+            \begin{minipage}{4.5cm}
+                \centering
+                \includegraphics[width=4.5cm]{\archivofigura}
+                {\footnotesize {\sffamily Esquema asociado al 
+                problema \arabic{ContadorProblema}}.}
+            \end{minipage}
+        \else
+            % Poner la figura del lado izquierdo
+            \end{minipage}%
+        \fi
+    \fi
+    \setcounter{TieneFiguraAsociada}{0}
+    \par \bigskip \vskip 0.3cm
+    % Permutamos el valor de la ubicacion
+    \ifnum\value{UbicacionFigura} < 1
+        \setcounter{UbicacionFigura}{1}
+    \else
+        \setcounter{UbicacionFigura}{0}
+    \fi
+}
+
+%----------------------------------------------------------
+% Definicion/Redefinicion de estilos
+\renewcommand{\vec}[1]{\ensuremath{\mathbf{#1}}}
+

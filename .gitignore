@@ -1,0 +1,12 @@
+# ignore compilation files
+*.aux 
+*.bbl 
+*.blg 
+*.dvi
+*.idx 
+*.fdb_latexmk 
+*.fls
+*.log 
+*.out 
+*.toc 
+
