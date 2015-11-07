@@ -1,0 +1,206 @@
+Fı́sica 3
+(Cs. de la atmósfera y los océanos)
+Primer cuatrimestre de 2015
+Guı́a 5: Ecuación de ondas y modos normales
+
+1. Escriba y resuelva las ecuaciones de movimiento para los siguientes sistemas:
+(a) Péndulo de longitud l en un campo gravitatorio constante g. Discuta todas las aproximaciones realizadas. Demuestre que sin dichas aproximaciones, la superposición lineal de dos
+soluciones no es solución de la ecuación del péndulo.
+(b) Oscilaciones longitudinales del sistema de la figura.
+
+(c) Oscilaciones transversales del mismo sistema. Analice cuidadosamente las aproximaciones
+realizadas y describa las diferencias entre los casos l0 = l, l0 < l, y l0 = 0. Compare las
+frecuencias del modo longitudinal con el transversal.
+2. Considere ahora el sistema del ejercicio ??, pero en el que ahora se reemplaza el resorte de la
+derecha por uno con constante elástica 2k. Escriba y resuelva las ecuaciones de movimiento para
+oscilaciones longitudinales. ¿Qué sistema de coordenadas conviene usar?
+3. Considere un resorte vertical con constante elástica k y longitud natural l0 , del que cuelga un
+cuerpo de masa m. Escriba la energı́a potencial (gravitatoria mas elástica) y encuentre la posición
+de equilibrio. Escriba y resuelva las ecuaciones de movimiento usando como cero de coordenadas
+la posición de equilibrio. Grafique la energı́a potencial del resorte y la potencial gravitatoria en
+función del tiempo, cuando el sistema está oscilando.
+4.
+
+(a) Verifique si las siguientes expresiones matemáticas cumplen la ecuación de las ondas unidimensional. Grafique las funciones dadas.
+i.
+ii.
+iii.
+iv.
+v.
+
+2
+
+ψ(x, t) = x0 e−λ(x−vt)
+ψ(x, t) = β(x + vt)
+ψ(x, t) = x0 sin[k(x − vt)]
+ψ(x, t) = x0 sin[2(kx − ωt)]
+ψ(x, t) = x0 cos(kx) sin(ωt)
+
+(b) En aquellas expresiones que satisfacen lo requerido en (a), ¿puede escribir las expresiones en
+función de x ± vt?
+5. Se tiene una cuerda de longitud L y densidad lineal de masa µ sometida a una tensión T0 . Proponga
+como solución de la ecuación de ondas para un modo normal a la expresión:
+ψ(x, t) = A sin(kx + φ) cos(ωt + θ).
+Tome el sistema de coordenadas con x = 0 en un extremo de la cuerda y x = L en el otro.
+Encuentre la forma particular que adopta la solución propuesta en los siguientes casos:
+1
+
+(a) ψ(0, t) = ψ(L, t) = 0 (ambos extremos están fijos).
+(b) ψ(0, t) = 0 y ∂ψ/∂x(L, t) = 0 (un extremo está fijo y el otro está libre). ¿Imponer que un
+extremo se encuentre “libre”, es equivalente a no imponer condiciones de contorno sobre ese
+extremo? ¿Cómo lograrı́a en la práctica un extremo “libre” para la cuerda?
+(c) ∂ψ/∂x(0, t) = ∂ψ/∂x(L, t) = 0 (ambos extremos se encuentran libres). ¿A qué corresponde el modo de frecuencia mı́nima? ¿Cuánto vale la frecuencia de oscilación de ese modo?
+(d) Ahora tome un sistema de coordenadas con x = 0 en el centro de la cuerda. Halle la forma
+que adopta la solución general propuesta si ψ(−L/2, t) = ψ(L/2, t) = 0 (ambos extremos
+fijos).
+6. Se tiene una cuerda de 20 cm de longitud y 5 g de masa, sometida a una tensión de 120 N. Calcule
+sus modos naturales de oscilación. ¿Son todos audibles para el oı́do humano?
+7. Las cuatro cuerdas de un violı́n emiten, estando libres, las notas sol2 (198 s−1 ); re3 (297 s−1 ); la3
+(440 s−1 ) y mi4 (660 s−1 ). La primera es de aluminio (ρ = 2.6 g cm−3 y diámetro d1 = 0.09 cm);
+las dos siguientes son de otro material (ρ = 1.2 g cm−3 y diámetros d2 = 0.12 cm y d3 = 0.1 cm,
+y la cuarta es de acero (ρ = 7.5 g cm−3 y diámetro d4 = 0.1 cm). Calcular las tensiones a las que
+deben estar sometidas con respecto a la primera.
+8. Una cuerda de violı́n de 30 cm de longitud, emite la nota la3 (440 s−1 ), en su modo fundamental.
+Calcule las modificaciones que deben realizarse en la longitud para que de las notas si3 (495 s−1 ),
+do3 (528 s−1 ) y re3 (594 s−1 ), todas en su modo fundamental.
+9. Se tiene un tubo de longitud L. Considere las siguientes posibilidades:
+I. El tubo está cerrado en ambos extremos, lleno de aire en su interior.
+II. El tubo tiene un extremo cerrado y el otro abierto.
+III. Ambos extremos están abiertos.
+Considere como datos del problema la velocidad de propagación de las ondas vs , L, la presión P0 ,
+y la densidad ρ0 = γP0 vs−2 . Hallar, para cada una de dichas situaciones:
+(a) las posibles longitudes de onda con las que puede vibrar el aire en el tubo, y sus correspondientes frecuencias.
+(b) Elija un sistema de referencia conveniente, y escriba la expresión más general para el desplazamiento de las partı́culas ψ(x, t). En dicha expresión, ¿qué parámetros conoce? ¿De qué
+dependen los parámetros que no conoce?
+(c) A partir de la expresión hallada en (b), deducir la expresión de δP (x, t) y δρ(x, t).
+10.
+
+(a) ¿Qué longitud debe tener un tubo de órgano abierto en ambos extremos para que produzca
+en el aire un sonido de 440 Hz?
+(b) ¿Qué longitud deberá tener un tubo de órgano cerrado en uno de sus extremos para que
+produzca el mismo tono en su primer armónico?
+
+11. Considere la función diente de sierra simétrica, entendiendo por tal a aquella función cuyos bordes
+anterior y posterior tienen la misma pendiente (ver figura). Sitúe el origen del sistema de coordenadas (z = 0) en una de las crestas y demuestre que la función tiene un desarrollo de Fourier de la
+forma
+
+
+8A
+1
+1
+f (z) = 2 cos(kz) + cos(3kz) +
+cos(5kz) + . . . ,
+π
+9
+25
+donde k = 2π/λ (λ es la longitud entre crestas del diente de sierra) y A es la amplitud del diente
+de sierra.
+2
+
+12. Obtenga el desarrollo en serie de Fourier de las siguientes funciones:
+(a)
+
+
+ 0
+
+si 0 < x < L4
+f (x) =
+A si L4 < x < 3L
+4
+
+ 0 si 3L < x < L.
+4
+
+(b)
+
+f (x) =
+
+(
+
+A si 0 < x < L2
+0 si L2 < x < L.
+
+13. Considere una cuerda de longitud L y densidad de masa uniforme µ0 sujeta en ambos extremos y
+sometida a una tensión T0 . En t = 0 la cuerda se suelta de modo que su forma está dada por la
+siguiente función:
+ψ(x, 0) = sin
+
+
+
+πx
+L
+
+
+
++
+
+1
+3πx
+sin
+3
+L
+
+
+
+
++
+
+1
+5πx
+,
+sin
+5
+L
+
+
+
+
+(el sistema de coordenadas tiene x = 0 en un extremo de la soga, y x = L en el otro).
+(a) Halle ψ(x, t).
+(b) Grafique ψ(x, t) para ω1 t = 0, π/5, π/3, y π/2 (ω1 es la frecuencia fundamental). ¿Qué
+clase de simetrı́a tiene ψ(x, t) alrededor de ω1 t = π/2? ¿Y alrededor de π? ¿Cómo espera
+que sea ψ(x, t) para ω1 t = 2π?
+14. Considere una cuerda de longitud L y densidad de masa uniforme µ0 sometida a una tensión T0 ,
+con un extremo fijo y el otro libre. Se le da a la cuerda la forma mostrada en la figura, y en t = 0
+se la suelta.
+
+3
+
+(a) Usando el sistema de coordenadas indicado en la figura, halle ψ(x, t).
+(b) Graficar ψ(x, t) para ω1 t = 0, π/3, y π/2.
+(c) Si tomara un sistema de coordenadas con el origen en el extremo libre de la cuerda, diga qué
+es lo que cambiarı́a. ¿Es conveniente ese sistema de coordenadas?
+15. Considere una cuerda de longitud L, sometida a una tensión T0 y con densidad lineal µ0 . Sea
+ψ(x, t) la elongación de la cuerda.
+(a) Escriba la expresión más general que representa un modo normal en dicha cuerda, es decir,
+la expresión más general de una onda estacionaria.
+(b) Sabiendo que la cuerda tiene un extremo libre y otro fijo, y que el sistema de coordenadas
+con el que trabaja es tal que el extremo libre está en x = 0 y el extremo fijo está en x = L,
+imponga las condiciones de contorno y determine las constantes pertinentes.
+(c) Usando la relación de dispersión, obtenga las posibles frecuencias temporales νn .
+(d) Si ψ(x, 0) = 0 y ∂ψ/∂t(x, 0) = v0 cos[3π/(2L)], obtenga la amplitud y fase de cada modo
+y halle ψ(x, t).
+16. Se tiene una cuerda de longitud L, sometida a una tensión T0 y con densidad lineal µ0 , con ambos
+extremos libres. En t = 0, la velocidad de todos los puntos de la cuerda es nula, y la deformación
+es la que se muestra en la figura. Elija un sistema de coordenadas y halle ψ(x, t). Describa cualitativamente el movimiento de los extremos de la cuerda en función del tiempo. Dicho movimiento,
+¿corresponde a oscilaciones armónicas?
+
+17. Se tiene un tubo de longitud L cerrado en ambos extremos como se indica en la figura. El tubo
+presenta un tabique ubicado en la mitad del tubo. De un lado del tabique hay un gas con densidad
+ρ0 − ∆, y del otro lado hay un gas de densidad ρ0 + ∆ (considere ∆ ≪ ρ0 ). Todo el gas se
+encuentra en reposo. En t = 0 se quita el tabique y se deja evolucionar al sistema.
+
+4
+
+(a) Escriba la expresión para un modo normal ψn (x, t) en el tubo, imponiendo las condiciones
+de contorno. ¿Cuáles son las longitudes de onda permitidas? (ψ es el desplazamiento de los
+elementos del gas).
+(b) Escriba la expresión de ρ(x, 0) y de ψ(x, 0); y grafı́quelas. Sugerencia: hallar ψ(x, 0) a
+partir de ρ(x, 0), y usando las condiciones de contorno.
+(c) Usando las condiciones iniciales, halle ψ(x, t) y ρ(x, t).
+(d) Halle ρ(x, L/v) y ρ(x, 2L/v). Compárelas con ρ(x, 0).
+Datos: ρ0 , ∆, L, y v (velocidad del sonido en el gas).
+
+5
+
+

@@ -1,0 +1,198 @@
+Fı́sica 3
+(Cs. de la atmósfera y los océanos)
+Primer cuatrimestre de 2015
+Guı́a 2: Segundo principio de la termodinámica. Entropı́a.
+
+1. Demostrar que:
+(a) Los postulados del segundo principio de Clausius y de Kelvin son equivalentes.
+(b) Ninguna máquina cı́clica que funciona entre dos fuentes de temperatura puede tener mayor
+rendimiento que una máquina reversible que funciona entre las mismas temperaturas.
+(c) Todas las máquinas reversibles que funcionan entre dos fuentes de temperatura tienen el
+mismo rendimiento.
+
+2. Usando la convención gráfica según la cual una máquina simple que entrega trabajo positivo se
+representa como en la figura:
+
+(a) Haga el esquema de una estufa eléctrica.
+(b) Haga el esquema para una heladera (¿Cuál es en la práctica la fuente frı́a y cuál la caliente?)
+(c) ¿Es posible una máquina como la indicada en la figura (a)? ¿Puede ser reversible? ¿Y una
+como la que se indica en la figura (b)?
+
+3. En una cocina hay una heladera y un equipo de aire acondicionado que da al exterior. Se pretende
+mantener la cocina a una temperatura constante de 17 ◦ C y al congelador de la heladera a une
+temperatura constante de -3 ◦ C. Por mala aislación el congelador absorbe de la cocina 200 cal/min.
+La temperatura externa es de 27 ◦ C. Sabiendo que el refrigerador tiene una eficiencia del 60% de
+uno ideal y que el equipo de aire acondicionado tiene una eficiencia del 50% del ideal, calcular la
+potencia eléctrica consumida entre ambos artefactos.
+1
+
+4. La máquina térmica de una heladera a gas intercambia calor con las siguientes fuentes de calor:
+(1) una llama de gas, que se puede considerar una fuente de calor a 700 K, y de la que absorbe Q1 ;
+(2) una cámara frigorı́fica, de la que absorbe el calor Q2 , y a la que se puede considerar como una
+fuente de calor a -10 ◦ C (esta temperatura se mantiene constante, porque la máquina debe absorber
+la misma cantidad de calor por ciclo que el que entra a la cámara en el mismo tiempo debido a la
+aislación imperfecta); (3) el aire de la habitación en que se halla la heladera, que constituye una
+fuente de calor a 20 ◦ C y al que entrega calor Q3 . La máquina térmica no recibe ni entrega trabajo.
+(a) Si la pérdida a la cámara por mala aislación es de 30 cal/min, y la máquina térmica realiza
+100 ciclos/min, hallar cuanto debe valer Q2 /ciclo.
+(b) Hallar el mı́nimo valor de Q1 /ciclo que debe absorber.
+
+5. Calcular la variación de la eficiencia de una máquina reversible (como la de la figura en el problema
+2) cuando:
+(a) Se aumenta la temperatura de la fuente superior en T
+(b) se disminuye la temperatura de la fuente inferior en T
+(c) ¿Qué cambio produce un mayor aumento de la eficiencia?
+
+6. Explique si el siguiente ciclo es posible o no. Justifique.
+
+7. Sean dos gases puestos en contacto térmico a través de una pared diatérmica. Ambos están encerrados en un recipiente de paredes adiabáticas.
+
+(a) ¿Se conserva la energı́a del sistema?
+(b) ¿Cómo evolucionará la entropı́a del sistema? Escriba dS para cada gas considerando S =
+S(E, V ).
+(c) A partir del punto anterior, demuestre que, en el equilibrio, ambos gases alcanzan la misma
+temperatura.
+8. ¿Qué se puede decir de la magnitud
+
+(a) Un proceso reversible
+(b) Un proceso irreversible
+(c) Un proceso adiabático
+
+9. Diez moles de gas ideal que se encuentra inicialmente a 27 ◦ C y a 760 mm Hg se comprimen en
+forma reversible a la mitad del volumen inicial.
+(a) Calcular Q, W y la variación de energı́a interna cuando el proceso se realiza isotérmicamente.
+(b) Calcular Q, W y la variación de energı́a interna cuando el proceso se realiza adiabáticamente.
+(c) Calcule la variación de entropı́a en ambos casos.
+
+10. Si un sistema evoluciona isotérmicamente a 27 ◦ C y la entropı́a varı́a en 4 Kcal K−1 , ¿cuánto calor
+recibió?
+
+11. Considere 1 kg de hielo a −20 ◦ C al que se le entrega calor hasta llevarlo a agua lı́quida a 20 ◦ C.
+Si la capacidad calorı́fica del hielo en esas condiciones es 0.5 cal g−1 ◦ C−1 y la del agua 1 cal
+g−1 ◦ C−1 , y el calor latente de fusión del hielo es 80 cal g−1 , calcular la variación de entropı́a del
+proceso. ¿Es reversible el proceso?
+
+12. Un mol de gas ideal diatómico realiza el siguiente ciclo reversible:
+
+(a) Calcular
+
+R
+
+δQ/t para los procesos AB, BC, CD, y DA. Compruebe que la suma es nula.
+
+(b) ¿Cuánto vale S(C) − S(A)?
+(c) ¿Se puede pasar en forma adiabática de A a C si T1 = 500 K, V1 = 5 l, T2 = 300 K, y
+V2 = 30 l?
+13. Un mol de gas ideal diatómico se halla en un recipiente adiabático provisto de un pistón en el
+estado A (VA = 2 l, TA = 300 K). Se saca la traba que retiene el pistón y el gas se expande contra
+la presión exterior constante de 1 atm, hasta el volumen VB , donde se encuentra una segunda traba
+para el pistón. La entropı́a del gas vale
+V
+S(T, V ) = S(300 K, 2 l) + R ln
+2l
+
+
+Calcular:
+(a) WAB .
+(b) ∆UAB .
+(c) TB = f (VB )
+(d) SB − SA .
+3
+
+
+
+T
++ CV ln
+.
+300 K
+
+
+
+
+(m)
+
+(e) Hallar el valor VB = VB
+
+que hace máxima la entropı́a total.
+(m)
+
+(f) Hallar la presión termodinámica del gas cuando VB = VB .
+(g) ¿Qué puede deducir respecto al volumen final que alcanzarı́a el gas en el equilibrio si cuando
+el gas se hallaba en A se sacasen ambas trabas?
+14.
+
+(a) ¿Qué se obtiene calculando el area bajo la curva, en un diagrama T -S?
+
+(b) Si se realiza el siguiente ciclo, ¿cuánto vale la variación de energı́a interna?
+
+(c) ¿Cómo es el gráfico en el diagrama T -S de un proceso adiabático? ¿Y de uno isotérmico?
+(d) Dado el siguiente diagrama, con la rama CD irreversible, ¿cuál es la variación de entropı́a
+SCD conociendo SAB ? ¿Cómo se comparan con SAB las variaciones de entropı́a de las
+fuentes para las partes AB y CD del ciclo?
+
+15. Un gas ideal evoluciona siguiendo el ciclo que se muestra en la figura. La curva inferior es una
+isoterma. Suponga que PA , TA , TB , y PB son datos.
+
+4
+
+(a) Calcular explı́citamente la variación de entropı́a cuando el gas se expande reversiblemente
+siguiendo la recta AB.
+(b) Calcular la variación de entropı́a cuando el gas se expande reversiblemente siguiendo la
+isoterma.
+(c) Calcular la variación de entropı́a cuando el gas pasa irreversiblemente de B a A.
+16. Considere un mol de un gas de van der Waals.
+(a) Encuentre la expresión de la energı́a interna del gas, E(T, V ).
+(b) Encuentre la expresión de la entropı́a del gas, S(T, V ).
+17. Considere un recipiente rı́gido y adiabático dividido en dos compartimientos separados por una
+válvula, inicialmente cerrada. Uno de los compartimentos, de volumen V1 , contiene un gas de van
+der Waals a temperatura T1 . El otro compartimento, de volumen V2 , se encuentra vacı́o. En un
+momento dado, se abre la válvula, pudiendo entonces expandirse el gas. Suponga que la capacidad
+calorı́fica del gas a volumen constante CV , y la del recipiente C, son constantes para temperaturas
+en un entorno considerable de T1 .
+(a) ¿Qué función de estado se conserva? Justifique.
+(b) Encuentre la temperatura final Tf del gas (tenga en cuenta al recipiente en el proceso).
+18. Un mol de gas de van der Waals se expande reversible e isobáricamente desde VA hasta VB (PA ,
+VA , TA , y VB son datos). Hallar:
+(a) La temperatura final.
+(b) La variación de energı́a interna en el proceso.
+(c) El calor absorbido.
+(d) La variación de entropı́a.
+19. Dos cuerpos idénticos, con capacidad calorı́fica a presión constante CP independiente de la temperatura, se utilizan como fuentes de calor para una máquina térmica. Los cuerpos se mantienen
+a presión constante e inicialmente sus temperaturas son T1 > T2 . Finalmente, como resultado del
+funcionamiento de la máquina térmica, los cuerpos llegan a una temperatura final Tf .
+(a) Calcule la cantidad total de trabajo W realizado por la máquina en función de CP , T2 , y Tf .
+(b) Deduzca cuál es la temperatura Tf mı́nima a la que pueden llegar ambos cuerpos. Justifique.
+(c) Para temperaturas iniciales T1 y T2 , ¿cuál es el máximo trabajo que puede dar la máquina
+trabajando entre esos dos cuerpos?
+20. Una máquina térmica trabaja entre T1 = 400 K y T2 = 200 K , extrayendo en cada ciclo 10 Kcal
+de la fuente 1. La eficiencia de la máquina es un 40% de la máxima posible. Calcular:
+
+5
+
+(a) El trabajo por ciclo.
+(b) El calor entregado a la fuente 2 por ciclo.
+(c) Las variaciones de entropı́a de la sustancia, de cada fuente, y del universo.
+(d) Repita los puntos anteriores para la máquina que tiene la eficiencia máxima.
+21. El ciclo de Stirling se realiza mediante dos procesos isotérmicos y dos isocoros. Para un gas ideal,
+según el gráfico
+
+(a) Dibujar el ciclo en el plano T -S, suponiendo que la sustancia es un gas ideal.
+(b) Demostrar que Q23 = Q41 .
+(c) Hallar la eficiencia.
+22. Considere un gas a temperatura T para el cual vale la relación P = u/3, siendo u la energı́a
+interna por unidad de volumen y P la presión del gas. Considere que u depende solamente de la
+temperatura. Un gas con esta caracteristicas se llama “gas de fotones”.
+(a) Considerando un ciclo de Carnot adecuado con este gas, demuestre que u = σT 4 , donde σ
+es una constante.
+(b) Reobtener el resultado pero usando que la entropı́a es una función de estado.
+(c) Calcule su entropı́a. ¿Cuál es la ecuación de las adiabáticas?
+(d) ¿Qué imagina que sucede con este gas en una expansión isotérmica?
+23. Se tienen dos gases ideales diferentes en un recipientes aislado a la misma P y T pero separados
+por una pared diatérmica; ambos están en equilibrio termodinámico. Se quita la pared. Si n1 y n2
+es el número de moles de cada gas, calcule la variación total de entropı́a como función de n1 , n2 ,
+y R. ¿Es éste un proceso reversible? ¿Qué pasa si el mismo gas se encuentra a ambos lados del
+tabique?
+
+6
+
+

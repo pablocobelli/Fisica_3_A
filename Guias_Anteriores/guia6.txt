@@ -1,0 +1,250 @@
+Fı́sica 3
+(Cs. de la atmósfera y los océanos)
+Primer cuatrimestre de 2015
+Guı́a 6: Ondas de propagación
+
+1. Considere una onda transversal armónica plana, cuya frecuencia angular es ω = 10 s−1 y cuyo
+número de onda es k = 100 m−1 . En x1 = 1 km y t1 = 1 s la fase de la onda es ϕ(1km, 1s) =
+3π/2.
+(a) ¿Cuánto vale la fase en x1 para t = 0 s?
+(b) Considerando que ϕ(x, t) = kx − ωt + ϕ0 , ¿cuánto vale ϕ0 ?
+(c) ¿A qué velocidad se propaga la onda?
+
+(d) ¿Cuánto tiempo debe transcurrir para que el frente de onda que se hallaba en x1 llegue a
+x = 2x1 ?
+2. Se tiene una perturbación que se propaga en una cuerda infinita con velocidad v. Se toman dos
+fotografı́as de la perturbación, en t = 0 s y en t = 4 s:
+
+(a) Hallar v.
+(b) Hallar ψ(x, t).
+3. Se tiene una cuerda infinita. Se sabe que la velocidad de propagación de las ondas en ella es
+v = 100 m s−1 (consideramos que dicha cuerda es un medio no dispersivo). En t = 0 se la
+deforma de la manera que se indica en la figura, y se la suelta desde el reposo.
+
+(a) Hallar ψ(x, t) = ψ1 (x − vt) + ψ2 (x + vt). Dar explı́citamente (en cada intervalo de interés)
+la expresión de ψ(x, t).
+(b) Comparar esta situación con la del problema anterior.
+4. En t = 0 se produce en un gas la perturbación indicada en la figura. Sabiendo que (ρ1 − ρ0 )/ρ0 ≪
+1, y que ψ̇(x, 0) = 0, calcule ρ(x, t). Datos: ρ0 , ρ1 , y v (velocidad de propagación de las ondas en
+el gas).
+
+1
+
+5. Se tiene una cuerda semi-infinita que se extiende hacia la izquierda, con su extremo en x = 0. Una
+onda de amplitud A incide desde la izquierda.
+(a) Calcule la expresión para la onda reflejada en este sistema de coordenadas.
+(b) Repita el problema anterior para una cuerda que cambia su densidad en x = 0. Calcule la
+onda reflejada y trasmitida.
+6. Se tienen dos cuerdas semi-infinitas con distinta densidad lineal de masa (ρ1 y ρ2 ) unidas en un
+punto, y sometidas a una tensión T0 .
+(a) Conocida ρ1 calcule ρ2 para que a la onda reflejada le corresponda una amplitud que sea la
+mitad de la amplitud de la onda incidente. Considere los dos casos de incidencia posibles
+(desde la izquierda y desde la derecha).
+(b) Grafique los coeficientes de reflexión y de transmisión en función de ρ2 .
+(c) Vea que para cualquier segmento que incluya o no a la unión, el flujo de energı́a que entra es
+igual al flujo de energı́a que sale.
+7. Un tubo lleno de aire tiene un parlante en un extremo y el otro abierto. ¿Cómo son las condiciones
+de borde para calcular la amplitud de la onda sonora reflejada?
+8. Se tienen dos tubos semi-infinitos de distinta sección unidos como se muestra en la figura. Una
+
+onda acústica de la forma δP0 (x, t) = A0 cos(ωt − k1 x) incide desde el primer tubo hacia x > 0.
+Hallar las amplitudes de presión y desplazamiento de las ondas reflejadas y transmitidas.
+9. Partiendo de las ecuaciones:
+
+∂φ 1 ∂ 2 φ
++
+∂y
+g ∂t2
+
+!
+
+= 0,
+y=0
+
+∇2 φ = 0,
+halle soluciones de la forma φ = f (y) cos(kx − wt), para ondas monocromáticas, donde φ es el
+potencial velocidad, tal que ∇φ = u, y g es la aceleración de la gravedad.
+10. Considere un estanque con profundidad infinita. Considere el origen de la coordenada y en la
+superficie del fluido en reposo.
+(a) Como la superficie del estanque es ilimitada, sin resolver el problema diga cuál es la simetrı́a
+que tendrá la solución.
+
+2
+
+(b) Utilizando la condición de contorno en el fondo del estanque
+∂φ
+uy (y → −∞) =
+∂y
+
+
+
+= 0,
+y→−∞
+
+dé una expresión de la velocidad en función de x y de y.
+(c) Obtenga la relación de dispersión ω(k) y diga si el medio es dispersivo. Calcule la velocidad
+de fase vϕ y la velocidad de grupo vg y comparelas.
+11. Considere la solución para el estanque de profundidad infinita. Calcule ux y uy , y en base a esto
+halle la trayectoria de partı́cula. ¿Qué movimiento realiza y cómo varı́a con y? Haga un gráfico
+aproximado.
+12. Considere un estanque con profundidad finita h.
+(a) Obtenga la solución para φ en este caso, tomando la condición de contorno en el fondo
+uy (y = −h) =
+
+∂φ
+∂y
+
+
+
+= 0,
+y=−h
+
+(b) Obtenga la relación de dispersión:
+i. Tome el lı́mite h → ∞ y recupere el caso anterior (estanque muy profundo).
+ii. Tome el lı́mite para pequeña profundidad, h ≪ λ.
+
+Vea en qué casos es dispersivo o no el medio.
+
+13. Considere ahora un estanque con profundidad h y con paredes laterales separadas por una distancia
+L (ver figura). Halle la solución para φ en este caso. Note que tiene que imponer condiciones de
+
+contorno adicionales en las paredes laterales,
+∂φ
+ux (x = 0) =
+∂x
+
+
+
+x=0
+
+∂φ
+= ux (x = L) =
+∂x
+
+
+
+= 0.
+
+x=L
+
+¿Que tipo de soluciones obtiene?
+14. Demuestre que la velocidad de grupo vg y la velocidad de fase vϕ están relacionadas por
+vg = vϕ − λ
+
+dvϕ
+dλ
+
+¿Cómo es dvϕ /dλ en un medio no dispersivo? En ese caso, ¿cómo se relacionan la velocidad de
+grupo y la de fase?
+15. Se quiere investigar la relación entre el ancho de un paquete y el desfasaje de las frecuencias que
+lo componen.
+3
+
+(a) Tome el siguiente pulso con un espectro gaussiano de ancho ∆k centrado en k0 (note que las
+frecuencias están en fase):
+#
+
+"
+
+(k − k0 )2
+.
+F (k) = A exp −
+4∆k 2
+Calcule f (x) y vea que tiene una envolvente gaussiana que modula una portadora de frecuencia k0 . Note que el pulso está centrado en x = 0 y que se cumple la relación ∆k∆x = 1/2
+(el paquete gaussiano es el de mı́nima incerteza).
+(b) Ahora desfase las distintas frecuencias en forma lineal, tal que:
+"
+
+#
+
+(k − k0 )2
+F (k) = A exp −
+exp[iα(k − k0 )].
+4∆k 2
+Calcule f (x) y vea que es el mismo pulso que en la parte (a), pero desplazado en α hacia la
+derecha (una fase lineal sólo corre la función).
+(c) Ahora agregue una fase cuadrática, es decir:
+"
+
+#
+
+(k − k0 )2
+F (k) = A exp −
+exp[iβ(k − k0 )2 ].
+4∆k 2
+Calcule f (x) y vea que es un pulso gaussiano centrado en x = 0 pero con un ancho ∆x que
+cumple
+1q
+1 + 16β 2 ∆k 4 .
+∆k∆x =
+2
+¿Es cierto que si se quiere disminuir el ancho de un paquete siempre se debe aumentar ∆k?
+Derive ∆x con respecto a ∆k en la expresión anterior y analice.
+Ayuda:
+Z
+
+∞
+
+i
+
+h
+
+exp (x + a)2 dx =
+−∞
+
+√
+
+π.
+
+16. Si Ψ(ω) corresponde a un espectro de frecuencias cuadrado (o sea, Ψ(ω) = (∆ω)−1 para ω
+comprendida en el intervalo de ancho ∆ω alrededor de ω0 , y cero en otra parte), vea que ψ(t) está
+dada por
+
+
+1
+sin(t∆ω/2)
+ψ(t) = √
+exp(−iω0 t).
+t∆ω/2
+2π
+(a) Grafique Ψ(ω) y |ψ(t)|.
+
+(b) Sea T un tiempo más prolongado que la duración de cualquier experimento que pueda idear.
+Muestre que si ∆ω es suficientemente pequeño como para que T ∆ω ≪ 1, entonces durante
+un tiempo menor que T, ψ(t) es una función armónica de amplitud y fase casi constante.
+17. Sea ψ(t) una función real.
+(a) Muestre que su transformada de Fourier Ψ(ω) cumple Ψ(ω) = Ψ∗ (−ω). Use esto para
+escribir a ψ(t) como superposición de senos y cosenos.
+(b) Muestre que la transformada de Fourier es lineal, es decir que
+F(αf + βg) = αF(f ) + βF(g),
+donde f y g son funciones de x, y α y β son constantes.
+4
+
+18. Se tiene un pulso de ancho ∆k centrado en k0 tal que la siguiente es una buena aproximación para
+la relación de dispersión:
+1
+ω(k) = ω(k0 ) + ω ′ (k0 )(k − k0 ) + ω ′′ (k0 )(k − k0 )2 .
+2
+Si en t = 0 un pulso se propaga hacia x < 0, y está dado por
+ψ(x, 0) = A
+
+Z
+
+∞
+0
+
+#
+
+"
+
+(k − k0 )2
+exp(ikx)dk + C.C.,
+exp −
+4∆k 2
+
+calcule ψ(x, t). Vea cuál es la posición y el ancho del paquete como función del tiempo. ¿Es cierto
+que al viajar por un medio dispersivo cualquier paquete se ensancha?
+
+5
+
+

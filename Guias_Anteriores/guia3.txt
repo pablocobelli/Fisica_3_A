@@ -1,0 +1,143 @@
+Fı́sica 3
+(Cs. de la atmósfera y los océanos)
+Primer cuatrimestre de 2015
+Guı́a 3: Potenciales termodinámicos. Cambios de fase
+
+1. Analizar la validez de las siguientes afirmaciones:
+(a) ∆H de un proceso cualquiera es igual al calor neto intercambiado.
+(b) ∆H de un proceso cualquiera es igual al calor neto intercambiado a presión constante.
+(c) El calor neto intercambiado en un proceso es una función de estado.
+2. En un recipiente de paredes aislantes se ponen en contacto 100 g de hielo a 0 ◦ C y 2 kg de agua a
+20 ◦ C. La presión se mantiene constante en 1 atm. Luego de cierto tiempo, el sistema alcanza el
+equilibrio.
+(a) ¿Cuánto habrá variado la entalpı́a del sistema cuando este haya llegado al equilibrio?
+(b) Calcule la temperatura de equilibrio.
+(c) Calcule la variación de la entropı́a de los 100 g de hielo al pasar del estado inicial al final, y
+la de los 2 kg de agua.
+3. Decir si son posibles los siguientes procesos realizados a T y P constantes:
+(a) Una sustancia pasa de la fase 1 a la fase 2 a P0 = 1 atm y T0 = 300 K; ∆HP0 ,T0 = 100 cal
+mol−1 y ∆SP0 ,T0 = 1 cal mol−1 K−1 .
+(b) Idem con ∆HP0 ,T0 = 200 cal mol−1 y ∆SP0 ,T0 = 0.5 cal mol−1 K−1 .
+(c) Idem con ∆HP0 ,T0 = 300 cal mol−1 y ∆SP0 ,T0 = 1 cal mol−1 K−1 .
+4. Un sistema termodinámico evoluciona desde un estado I hacia un estado F en forma reversible y
+en contacto con una fuente térmica a 300 K. Como consecuencia de la transformación, el medio
+ambiente recibe 250 cal en forma de trabajo, y la entropı́a del sistema aumenta en 0.5 cal K−1 .
+(a) ¿Cuánto vale el calor intercambiado entre el sistema y el medio?
+(b) ¿Cuál es la variación de su energı́a libre A?
+(c) ¿Cuál es la variación de su energı́a interna?
+(d) ¿Cómo cambian sus respuestas a los puntos anteriores si se realiza una transformación irreversible entre los mismos estados?
+5. La función de Helmholtz de un sistema mantenido a T y V constantes depende de T , V , y una
+variable adicional X en la forma
+A = A0 + BT X 2 − CXV 2 ,
+donde A0 , B, y C son constantes positivas.
+(a) ¿A qué valor de X corresponderá el equilibrio del sistema si T = T0 y V = V0 ?
+(b) ¿Cuál será la ecuación de estado del sistema P = P (T, V ) para X = X0 mantenido constante?
+6. Una sustancia tiene las siguientes propiedades:
+1
+
+(i) A T = T0 constante, el trabajo realizado por una expansión de V0 a V es W = RT0 ln(V /V0 ).
+(ii) La entropı́a está dada por S = R(V0 /V )(T /T0 )a (V0 , T0 , y a son constantes).
+Usando estas propiedades calcule:
+(a) La energı́a libre de Helmholtz.
+(b) La ecuación de estado
+(c) El trabajo que se realiza a una temperatura T arbitraria (no necesariamente T0 ).
+7. La función de Gibbs para un mol de cierto gas está dada por
+CP 2 DP 3
++
+,
+2
+3
+donde A, B, C, y D son funciones solo de la temperatura.
+G = RT ln P + A + BP +
+
+(a) Encontrar la función de estado del gas.
+(b) Expresar las demás funciones termodinámicas en función de p, A, B, C, D, y sus derivadas.
+8. La función de Gibbs para un sistema formado por vapor de agua y una gota condensada de radio r
+es
+
+
+4
+p
+G = G0 − πr3 ρR∗ T ln
++ 4πr2 γ,
+3
+pS (T )
+donde γ es la tensión superficial, ρ es la densidad del lı́quido, R∗ es la constante de los gases por
+unidad de masa para el vapor, p es la presión parcial del vapor de agua, y pS (T ) es la presión de
+vapor de saturación (en la transición de fase).
+(a) Grafique cualitativamente la función de Gibbs en función del radio r para p/pS (T ) ≤ 1
+(condiciones subsaturadas o exactamente saturadas), y para p/pS (T ) > 1 (condición sobresaturada).
+(b) Para el caso p/pS (T ) > 1, muestre que el radio
+rc =
+
+2γ
+ρR∗ T ln(p/pS )
+
+es un equilibrio inestable.
+(c) ¿Cómo evoluciona la gota si r > rc ? ¿Y si r < rc ?
+9. Las isotermas de un gas de van der Waals tienen la forma indicada en la figura.
+
+El punto c es el punto crı́tico del gas. Las isotermas contı́nuas dentro de la campana corresponden
+a vapor sobresaturado, las punteadas corresponden a la lı́nea de equilibrio lı́quido-vapor.
+2
+
+(a) Hallar las coordenadas del punto c (Tc , Vc , y Pc ).
+(b) Demostrar que las areas definidas por los puntos BCDH y DIF E son iguales.
+10. Cuando 1 g de agua se transforma en vapor a la presión atmosférica, el volumen que ocupa es de
+1671 cm3 . Si el calor latente de vaporización del agua es de 540 cal g−1 , calcule ∆V , ∆S, ∆H,
+∆A, y ∆G.
+11. A una temperatura de 10 ◦ C, se tiene ∆H = 1530 Kcal mol−1 y ∆S = 5.65 cal mol−1 K−1 . para
+una reacción
+H2 O(sólida) → H2 O(lı́quida),
+(a) ¿Es espontánea esta reacción a 10 ◦ C?
+(b) ¿Cuánto valdrán ∆H(T ) y ∆S(T ) a 1 atm y T 6= 10 ◦ C (datos: CP,hielo = 0.5 cal mol−1
+◦ C−1 , C
+−1 ◦ C−1 ).
+P,agua = 1.0 cal mol
+(c) Despreciando ahora la variación de ∆H y ∆S con la temperatura, calcular la temperatura de
+equilibrio hielo-agua a 1 atm.
+12. A 25 ◦ C y 1 atm, las entropı́as molares de la calcita y de la aragonita (dos fases del CO3 ) son
+de 22.20 cal K−1 y de 21.20 cal K−1 respectivamente. Sus entalpı́as de formación, en iguales
+condiciones, son de −288.45 Kcal mol−1 y −288.49 Kcal mol−1 . Determine la variación de G
+para la transformación calcita-aragonita a 25 ◦ C y 1 atm de presión. ¿Cuál de las dos fases es
+estable en estas condiciones?
+13. Encontrar ∆S para pasar 1 mol de agua lı́quida a T1 = 25 ◦ C al estado gaseoso a la misma
+temperatura. (Datos: presión del vapor saturado del agua a T1 = 25 ◦ C: P1 = 23, 76 mm Hg;
+presión del vapor saturado del agua a T2 = 100 ◦ C: P2 = 760 mm Hg; calor de evaporación a la
+temperatura T2 : C2 = 9720 cal mol−1 ; en todo el rango de temperaturas precedente CP = 9 cal
+mol−1 K−1 para el vapor, mientras que la capacidad calorı́fica del lı́quido es 18.0 cal mol−1 K−1 .)
+14. Un mol de gas ideal experimenta una expansión isotérmica reversible desde un volumen inicial de
+0.5 litros hasta un volumen final de 2.5 litros. Sabiendo que la energı́a libre A disminuye 1050 cal
+en el proceso:
+(a) ¿Cuál es la temperatura del sistema?
+(b) ¿Cuál es la variación de G?
+15. Se tiene un mol de gas ideal confinado en un recipiente a presión P0 . Se lo comprime hasta un
+volumen Vf en forma reversible e isotérmica. La variación de energı́a libre es ∆A.
+(a) Demuestre que la temperatura está dada por la siguiente expresión:
+T =−
+
+∆A
+,
+R ln(Vf /Vi )
+
+siendo Vi el volumen inicial.
+(b) Encuentre ∆G en función de ∆A.
+16. En un cilindro de 1 litro de volumen se encuentra un pistón trabado en la parte media. De un lado
+hay 10 moles y del otro 12 moles de un gas ideal monoatómico. Todo el sistema está dentro de
+un baño térmico a T = 300 K. Se destraba el pistón y el sistema llega al equilibrio. Calcular para
+ambos lados:
+(a) ∆U
+3
+
+(b) ∆H
+(c) ∆G
+(d) ∆A
+17. El agua lı́quida muy pura puede sobre-enfriarse a presión atmosférica hasta temperaturas muy
+por debajo de 0 ◦ C. Suponer que se ha enfriado una masa de agua en estado lı́quido hasta -5 ◦ C.
+Un pequeño cristal de hielo cuya masa es despreciable es añadido como perturbación al lı́quido
+sobrenfriado. Si el cambio de estado subsiguiente sucede adiabáticamente y a presión atmosférica
+constante ¿qué fracción del sistema se solidifica? ¿Cuál es el cambio de entropı́a del sistema?
+
+4
+
+

@@ -1,0 +1,118 @@
+Fı́sica 3
+(Cs. de la atmósfera y los océanos)
+Primer cuatrimestre de 2015
+Guı́a 8: Interferencia y difracción
+
+1. Demuestre que la suma de dos ondas armónicas escalares de la misma frecuencia ω (φ1 = A1 cos(kx−
+ωt + ϕ1 ) y φ2 = A2 cos(kx − ωt + ϕ2 )) que se propagan en la misma dirección, da lugar a otra
+onda armónica (φR = AR cos(kx − ωt + ϕR )) de igual frecuencia y que se propaga en la misma
+dirección que las otras, cuya amplitud y fase están dadas por:
+A2R = A21 + A22 + 2A1 A2 cos(ϕ1 − ϕ2 ),
+y
+tan(ϕR ) =
+
+A1 sin(ϕ1 ) + A2 sin(ϕ2 )
+.
+A1 cos(ϕ1 ) + A2 cos(ϕ2 )
+
+2. Considere dos fuentes puntuales monocromáticas que emiten en la misma frecuencia, con una
+diferencia de fase ∆ϕ = ϕ1 − ϕ2 , y que se hallan separadas entre sı́ una distancia s. Calcule la
+perturbación total en una zona muy alejada de las fuentes, próxima a la dirección perpendicular
+a la recta que las une. Suponga que ambas fuentes emiten con igual amplitud. ¿Qué figura se
+observa en una pantalla perpendicular a dicha dirección? ¿Cómo debe ser s respecto de λ para que
+sean válidas las aproximaciones realizadas?
+3.
+
+(a) En el experimento de Young, ¿cuál es el lugar geométrico de los puntos que reciben ondas
+con la misma diferencia de fases?
+(b) Si en un experimento de Young la pantalla de observación está lo suficientemente alejada de
+las ranuras, ¿qué aspecto tienen las franjas de interferencia?
+(c) ¿Cómo cambia el experimento de Young si la fuente luminosa no está simétricamente situada
+respecto de la ranura, o si, por algún motivo, las ondas que llegan a las mismas tienen un
+cierto desfasaje? ¿Cómo puede detectar dicho corrimiento?
+(d) ¿Cómo se modifica la figura de interferencia si el dispositivo de Young se encuentra inmerso
+en un medio de ı́ndice 1, 5? ¿Cómo y cuánto se deberı́a mover la pantalla para mantener el
+valor de la interfranja?
+
+4. Considere una fuente monocromática (λ = 550 nm), y un dispositivo de Young una distancia entre
+las ranuras s = 3.3 mm, y una distancia de las ranuras a la pantalla D = 3 m.
+
+1
+
+(a) Calcular la interfranja i.
+(b) Detrás de una de las ranuras se coloca una lámina de vidrio de caras paralelas y planas
+(e = 0.01 mm) (ver figura). Determinar el sentido de desplazamiento de las franjas y la
+fórmula que da la expresión de dicho desplazamiento.
+(c) Sabiendo que las franjas se han desplazado 4.73 mm, dar el valor del ı́ndice de refracción
+del vidrio. ¿Puede detectar dicho corrimiento con una fuente monocromática? ¿Y con una
+policromática?
+5. Sea una lámina de caras paralelas como la indicada en la figura. Calcule para qué longitudes de
+onda, en el rango visible, los rayos 1 y 2 interfieren constructivamente. Cuando esto sucede, ¿qué
+pasa con los rayos 3 y 4? Calcule un valor del ı́ndice externo para que la interferencia de los rayos
+1 y 2 sea destructiva.
+
+6. Partiendo de la expresión de la intensidad observada sobre una pantalla, explique el significado de
+cada uno de los términos que aparece en dicha expresión para el caso de:
+(a) Una ranura.
+(b) Dos ranuras.
+(c) Una red de difracción.
+Haga los gráficos de I(θ) en cada caso.
+7. Se realiza una experiencia de difracción por doble rendija con una fuente que emite en 400 nm.
+La separacion entre los puntos medios de las rendijas es de 0.4 mm. La pantalla está a 1 m de las
+rendijas. Si se cambia la fuente por otra que emite en 600 nm, determine:
+(a) En cuánto varió la interfranja.
+(b) En cuánto varió el número total de franjas de interferencia contenidas en el máximo principal
+de difracción.
+(c) En cuánto varió el ancho angular de la campana principal de difracción.
+8. Sabiendo que la distribución angular de intensidad producida por N rendijas de ancho b separadas
+entre una distancia d, iluminadas por un haz plano de dirección θ0 , vale:
+I(θ) = I0
+donde
+
+sin β sin(N δ)
+,
+β
+Nδ
+
+β=
+
+πb
+(sin θ − sin θ0 ) ,
+λ
+
+δ=
+
+πd
+(sin θ − sin θ0 ) .
+λ
+
+y
+
+2
+
+(a) Obtenga la expresión de la difracción para dos rendijas. Determine la posición en los máximos
+y mı́nimos de intensidad. Y grafique la figura de interferencia-difraccióon que se obtendrı́a
+en un plano suficientemente alejado de las rendijas. Analice la figura cuando el haz incidente
+está formado por dos longitudes de onda. A luz de estos resultados discuta el interferómetro
+de Young.
+(b) Para 4 rendijas obtenga la figura de interferencia-difracción sobre una pantalla muy lejana.
+Analice la cantidad de mı́nimos que se encuentran entre dos máximos de interferencia, y
+obtenga a partir de allı́ el ancho de las lı́neas espectrales. ¿Qué ocurre si se aumenta el
+número de rendijas? Analice cuántos máximos de interferencia se enuentran dentro de la
+campana principal de difracción. Calcule el máximo orden observado tanto en incidencia
+normal como rasante.
+9.
+
+(a) Una red de difracción tiene 8000 ranuras/pulgada. ¿Para qué longitudes de onda del espectro
+visible es posible observar difracción de quinto orden (k = 5)?
+(b) ¿Cuál es la dispersión angular máxima en segundo orden que se puede obtener con una red
+de 4 cm de longitud y 800 lı́neas si se trabaja con luz de λ = 560 nm?
+(c) Se ilumina la red de difracción del item anterior con una lámpara que emite luz de longitudes
+de onda de λ1 = 560 nm y λ2 = 560, 5 nm. ¿A partir de qué orden se resuelven los espectros
+correspondientes a las dos longitudes de onda?
+(d) Una red de difracción tiene 1965 lı́neas/cm y se observa una difracción intensa a 30◦ . ¿Cuáles
+pueden ser las longitudes de onda de la luz incidente? ¿Cómo las podrı́a identificar?
+
+3
+
+

@@ -1,0 +1,198 @@
+1.
+
+(a) Estime la cantidad de aire, en kg, que hay en una habitación (la masa de 1 Kmol de aire es,
+aproximadamente, 29 kg).
+(b) Considere átomos de nitrógeno a temperatura y presión ambientes. Hallar el número medio
+de partı́culas que chocan con 1 cm2 de area por segundo.
+
+2. Una serie de mediciones de los volúmenes que ocupa un mol de gas mantenido a la temperatura
+constante T0 , en función de la presión, arroja la siguiente tabla:
+(a) Hacer el gráfico correspondiente para obtener la zona en que el gas se comporta como ideal.
+(b) ¿Cuánto vale T0 ?
+
+3. La resistencia de un alambre de platino es de 7000 Ω a 0 ◦ C, 9705 Ω a 100 ◦ C, y 18387 Ω a 444.60
+◦ C (punto del azufre). La resistencia puede parametrizarse por medio de la ecuación:
+R(t) = R0 (1 + at + bt2 )
+siendo R0 , a, y b constantes.
+(a) Hallar los valores de R0 , a, y b.
+(b) Suponga que el alambre se usa como termómetro. Se elige la resistencia como propiedad
+termométrica, y se usan como puntos fijos la temperatura de fusión del hielo y la temperatura
+de ebullición del agua. Calcule la temperatura que se medirı́a con este termómetro para el
+punto del azufre.
+(c) Represente en un mismo gráfico ambas temperaturas en función de la resistencia.
+
+4. Cierta propiedad de un cuerpo indicada por X es función de su temperatura T , donde X = k ln(T ).
+Se define una escala de temperaturas T 0 , tal que coincida con la escala Kelvin en los puntos 273 K
+y 373 K, y tal que dT 0 = adX.
+(a) ¿Cuál será la temperatura en Kelvin cuando la escala marque T 0 ?
+(b) ¿Para qué valor de T , en el intervalo [273 K, 373 K] se hará máxima la discrepancia entre
+los números asignados a las temperaturas en las dos escalas? ¿Cuánto vale esta diferencia?
+
+5. Calcular la cantidad de calor Q que se debe entregar a 20 g de hielo a 200 K para convertirlo
+en vapor de agua a 150 ◦ C. Representar la evolución del sistema en un gráfico T vs. Q (datos:
+Chielo = 0.5 cal g−1 K−1 , Cfusión = 80 cal g−1 ; Cvaporización = 540 cal g−1 ; Cvapor = 0.5
+cal g−1 K−1 ).
+
+6. Un calorı́metro de cobre cuya masa es de 300 g contiene 500 g de agua a 15 ◦ C. Se introduce en
+él un bloque de cobre de 530 g a 115 ◦ C, observándose que la temperatura de equilibrio es de 25
+◦ C. Calcular el calor especı́fico del cobre y el equivalente en agua del calorı́metro.
+
+7. Un sistema consiste en un resorte cuyas variables termodinámicas son la elongación x, la temperatura absoluta T , y la fuerza F que ejerce el resorte. Las ecuaciones de estado y la energı́a del
+resorte están dadas por
+F = −kx + bµT,
+E = kx2 /2 + cT,
+donde µ = 2 × 105 dinas cm−1 , b = 0.025 cm K−1 , y c = 1 J K−1 .
+(a) ¿Cuánto vale la capacidad calorı́fica del resorte a x = cte?
+(b) Idem, pero a F = cte.
+(c) Halle la ecuación de las adiabáticas del resorte.
+(d) Inicialmente, no hay fuerzas externas aplicadas al resorte. En un cierto instante, se aplica
+sobre el mismo una fuerza de 300 g, manteniéndose al resorte en contacto con una fuente
+térmica a 300 K. Calcular la variación de energı́a y el calor absorbido por el resorte.
+
+8. Una bolita de masa m y cuyo calor especı́fico de 0.1 cal g−1 ◦ C−1 cae desde una altura h = 19.5
+m, en un lugar donde la aceleración de la gravedad vale g = 9.8 m s−2 , sobre un plano horizontal.
+La bolita rebota, se eleva a una altura h/n y se calienta. El plano no se calienta ni se deforma.
+Calcular el aumento de temperatuta de la bolita, suponiendo que su energı́a interna varı́a de la
+forma U = cθ, siendo c la capacidad calorı́fica y θ la variación de temperatura. Analizar los
+valores que puede tomar n y los valores máximos y mı́nimos posibles de θ.
+
+9. Calcular el trabajo realizado por N moles de gas ideal para ir de un estado inicial a otro final, en
+cada una de las siguientes transformaciones reversibles:
+(a) Evolución isocórica.
+(b) Evolución isobárica.
+(c) Evolución isotérmica.
+(d) Evolución adiabática.
+¿En qué casos la expresión obtenida es válida aún para gases no ideales? ¿En qué casos es válida
+aún para procesos irreversibles?
+
+10. Un recipiente adiabático está dividido en dos partes por un tabique. Una de las partes, de volumen
+Vi , está llena con un gas ideal y la otra (con volumen Vf − Vi ) está vacı́a. Se saca el tabique y se
+espera el equilibrio.
+(a) ¿Varı́a la energı́a interna?
+(b) ¿Cuál es la relación Pf /Pi ?
+
+11. Un cilindro de volumen V , cerrado en sus dos extremos, contiene una mezcla de n1 moles de
+N2 y n2 moles de O2 . Un pistón semipermeable, permeable a N2 e impermeable a O2 , está
+inicialmente en un extremo y es desplazado de modo que deja detrás de si un volumen V1 que
+contiene únicamente N2 . Un segundo pistón semipermeable, permeable a O2 e impermeable a
+N2 , está al comienzo en el otro extremo y es desplazado de modo que deja detrás de si un volumen
+V2 que contiene solamente O2 .
+(a) Los desplazamientos se realizan reversiblemente y a temperatura constante T . Calcular el
+trabajo entregado al sistema. Mostrar que este no depende del orden en que se efectuan los
+desplazamientos.
+(b) ¿Cuánto vale el trabajo cuando los gases están completamente separados? ¿Para qué valor
+de V1 /V2 el trabajo toma un valor mı́nimo? En este caso, ¿qué condición se cumple para las
+presiones?
+(c) La mezcla inicial de aire es n1 /n2 = 4 a presión atmosférica y 20 ◦ C. Calcular el trabajo
+necesario en las condiciones de mı́nimo, para separar 1 kg de O2 .
+
+12. Un cilindro de volumen V cuyas paredes son rı́gidas y aislantes está dividido en dos partes iguales
+por un pistón diatérmico, inicialmente trabado. En cada una de las partes hay n1 y n2 moles de un
+gas ideal. Se destraba el pistón y se espera a que el sistema alcance el equilibrio (datos: V = 2 l,
+T1 = T2 = 300 K, p1 = 3 atm, p2 = 1 atm).
+(a) ¿Es este proceso reversible?
+(b) ¿Cuánto vale la variación de la energı́a interna total? ¿Cuánto la temperatura final?
+(c) Calcular la presión y el volúmen final de cada parte del cilindro.
+
+13. Se calienta un gas ideal a volumen V1 constante, desde la presión inicial P1 hasta que ésta se
+duplica. Luego se expande isotérmicamente hasta que la presión alcanza su valor inicial. Por
+último se disminuye el volumen a presión constante, hasta su valor inicial. Todos los procesos son
+reversibles.
+(a) Representar estas transformaciones en el plano P -V y en el plano P -T .
+(b) Calcular el trabajo que se entrega en la transformación si P1 = 2 atm y V1 = 4 m3 .
+(c) Indique por cuál proceso o conjunto de procesos deberı́a ser reemplazado el último de ellos
+para que, llevando el sistema a su estado inicial, el trabajo total sea nulo.
+
+14. Un gas tiene la siguiente ecuación de estado:
+RT
+p=
+V
+
+
+
+aT
+1+
+V
+
+
+
+,
+
+donde a es una constante, y su energı́a es de la forma:
+E(T, V ) = E0 (T ) −
+
+aRT 2
+.
+V
+
+(a) Hallar el trabajo entregado por el gas durante una expansión isotérmica reversible desde V0
+hasta 3V0 .
+(b) Idem, durante una expansión isotérmica contra una presión exterior constante P0 , desde V0
+hasta 3V0 .
+(c) Q y E en ambos casos.
+15. Un gas tiene ecuación de estado:
+aN 2
+p+ 2
+V
+
+!
+
+(V − N b) = N RT
+
+y diferencial de energı́a dU = CV dT + aN 2 /V 2 dV (gas de van der Waals). Halle la ecuación de
+las adiabáticas para este gas.
+16. Considere una expansión libre de un gas de van der Waals desde una cámara aislada térmicamente
+de volumen V1 hacia una cámara aislada térmicamente de volumen V2 . Probar que
+2aB
+∆T =
+3R
+3
+
+1
+1
+−
+Vf
+Vi
+
+!
+
+.
+
+17. El siguiente problema describe un método utilizado para medir el coeficiente γ = Cp /CV de un
+gas. El gas, supuesto ideal, está confinado dentro de un recipiente vertical cilı́ndrico que soporta un
+émbolo, libre de moverse, de masa m. El émbolo y el cilindro tienen la misma sección transversal
+A. La presión atmosférica es p0 y, cuando el émbolo está en equilibrio bajo la influencia de
+la gravedad y las fuerzas de presión, el volumen ocupado por el gas es V0 . Se desplaza ahora
+el émbolo ligeramente de su posición de equilibrio provocando oscilaciones alrededor de esta
+posición con frecuencia ν. Las oscilaciones del émbolo son consideradas suficientementes lentas
+como para que el gas permanezca siempre en equilibrio interno pero también lo bastante rápidas
+para que el gas no pueda intercambiar calor con el exterior. Las variaciones en la presión y el
+volumen del gas son, por lo tanto, adiabáticas. Expresar γ en función de m, g, A, p0 , V0 y ν.
+18. Usando la ecuación de balance hidrostático
+dP
+= −ρg,
+dz
+y asumiendo que en la atmósfera dT /dz = −Γ es constante, muestre que la dependencia de la
+presión con la altura z está dada por
+Γz
+1−
+T0
+
+
+
+P (z) = P0
+
+
+
+g
+ΓR∗
+
+,
+
+donde P0 es la presión en la superficie y R∗ es la constante de los gases por unidad de masa de
+aire. Calcule la altura en la cual la presión es P0 /10 asumiendo la temperatura en la superficie es
+T0 = 290 K y Γ = 10 K km−1 .
+
+4
+
+

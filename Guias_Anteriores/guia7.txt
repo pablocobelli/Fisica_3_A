@@ -1,0 +1,62 @@
+Fı́sica 3
+(Cs. de la atmósfera y los océanos)
+Primer cuatrimestre de 2015
+Guı́a 7: Ondas electromagnéticas y polarización
+1. La luz corresponde a la radiación electromagnética en la banda angosta de frecuencias de alrededor
+de 3, 84 × 1014 Hz hasta aproximadamente 7, 69 × 1014 Hz, mientras que, por ejemplo, la banda
+de frecuencias correspondiente a las emisiones de radio usadas en forma local comprenden para
+tipo AM desde 540 Hz hasta 1600 Hz, y para aquellas del tipo FM desde 88 MHz hasta 108 MHz;
+pero todas ellas viajan en el vacı́o a la misma velocidad: c ≈ 3 × 108 m/s. El espectro de ondas
+electromagnéticas en el vacı́o se muestra en la figura.
+
+(a) Hallar las longitudes de onda en el vacı́o de las ondas luminosas, de AM y FM de uso local.
+(b) Cuando un rayo de luz cuya longitud de onda en el vacı́o es λ = 6 × 10−7 m atraviesa una
+distancia e = 5 mm en aire (naire = 1.000293 ≈ 1), ¿cuánto tarda y cuántas crestas están
+contenidas en e? ¿Cuántas ondas de rayos X con longitud de onda de 1 × 10−10 m y cuántas
+de radio AM y FM están contenidas en esa distancia? Comparar los resultados.
+2. En un vidrio óptico común se propaga un haz de luz blanca, ¿qué componente viaja más rápido: la
+roja o la violeta? Datos: nrojo = 1, 51, nvioleta = 1, 53.
+3. Una onda plana incide desde la derecha (aire) sobre una lámina de vidrio de espesor e, con un
+ángulo de incidencia γ.
+(a) Demuestre que la onda transmitida se propaga con el mismo ángulo que la incidente.
+(b) Demuestre que el rayo que se refleja en la primera cara y el que emerge luego de reflejarse
+en la segunda son paralelos.
+(c) Si el medio exterior es único, ¿existe algún ángulo de incidencia tal que produzca reflexión
+total en la cara inferior?
+4. Los ı́ndices de refracción de cierta clase de vidrio para el rojo y el violeta valen 1, 51 y 1, 53,
+respectivamente. Halle los ángulos lı́mites de reflexión total para rayos que incidan en la superficie
+de separación vidrio-aire. ¿Qué ocurre si un rayo de luz blanca incide formando un ángulo de 41◦
+sobre dicha superficie?
+1
+
+5. Una onda plana incide desde la derecha perpendicularmente a la cara del prisma de la figura.
+Encuentre:
+
+(a) El ángulo de desviación θ de la luz transmitida en función del ı́ndice de refracción y el ángulo
+α del prisma.
+(b) El ángulo a partir del cual toda la luz es reflejada (ángulo de reflexión total interna). Discuta
+para qué caso es posible la reflexión total externa.
+(c) La dispersión del prisma dθ/dλ.
+6. Escriba las ecuaciones que describen las siguientes ondas:
+(a) Una onda linealmente polarizada cuyo plano de vibración forma un ángulo de 45◦ con el eje
+x.
+(b) Una onda linealmente polarizada cuyo plano de vibración forma un ángulo de 120◦ con el
+eje x.
+(c) Una onda circularmente polarizada en sentido horario.
+(d) Una onda elı́pticamente polarizada en sentido antihorario y tal que los ejes de la elipse coincidan con los ejes cartesianos x-y, siendo la amplitud de la componente x el triple de la
+correspondiente a la de la componente y.
+7. ¿Con qué ángulo debe incidir luz sobre una superficie de agua para que la luz reflejada esté totalmente polarizada? ¿Depende o no dicho ángulo de la longitud de onda de la luz?
+8. Un rayo de luz blanca incide sobre una placa de vidrio con un ángulo de 58◦ . El rayo reflejado
+está totalmente polarizado. ¿Cuál es el ángulo con que se refracta la luz transmitida?
+9. Sobre una lámina plano-paralela de vidrio (n = 1, 5) incide luz elı́pticamente polarizada con un
+ángulo de incidencia θ.
+(a) ¿Para qué valores de θ el haz reflejado en la primera cara está linealmente polarizado?
+(b) Si el rayo reflejado tiene intensidad Io e incide sobre un polarizador que forma un ángulo de
+30◦ con el plano de oscilación, ¿cuál es la intensidad emergente del polarizador?
+10. Considere tres medios con ı́ndices n1 , n2 y n3 con interfases paralelas. El medio con ı́ndice
+n2 tiene espesor e. Si incide luz con polarización arbitraria desde el medio con ı́ndice n1 , ¿qué
+condición debe cumplirse para que el haz reflejado éste linealmente polarizado?
+
+2
+
+

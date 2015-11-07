@@ -1,0 +1,109 @@
+Fı́sica 3
+(Cs. de la atmósfera y los océanos)
+Primer cuatrimestre de 2015
+Guı́a 4: Teorı́a cinética de los gases
+
+1.
+
+(a) Considere 1 Kmol de oxı́geno en condiciones normales de presión y temperatura. Construya
+un gráfico de la función de distribución de las velocidades escalares y evalúe la probabilidad
+de que una molécula tenga velocidad comprendida entre la media y la más probable.
+(b) ¿Cuántas moléculas en 1 Kmol de oxı́geno tienen velocidad mayor a 103 m s−1 a una temperatura de (i) 100 K, y (ii) 1000 K?
+
+2.
+
+(a) Calcular la presión atmosférica en función de la altura, suponiendo que la temperatura no
+varı́a con la altura.
+(b) En una suspensión de pequeñas partı́culas en agua a 20 ◦ C se observa que en un dado nivel
+hay aproximadamente 49 partı́culas por unidad de area, y en un nivel de suspensión 60 µm
+más arriba se observan 14 partı́culas por unidad de area. La densidad media de las partı́culas
+es de 1.194 g cm−3 , y las mismas tienen forma esférica con un radio de 0.212 µm. Halle el
+número de Avogadro.
+
+3.
+
+(a) ¿Qué fracción de H2 en la atmósfera al nivel del mar a la temperatura de 300 K puede escapar
+del campo gravitatorio terrestre?
+(b) ¿Por qué todavı́a hay H2 en la atmósfera terrestre al nivel del mar?
+
+4. Considere un modelo de la atmósfera formado por dos gases ideales A y B en equilibrio térmico
+a una temperatura T . La relación entre sus abundancias (el número de moléculas de cada gas) es
+NA /NB = 4, y entre las masas de sus moléculas, mA /mB = 2. Considere a NA y mA como
+datos del problema.
+(a) Escriba la función de distribución para el gas A.
+(b) Calcule la energı́a media cinética y potencial para el gas A.
+(c) Halle las densidades en función de la altura para cada gas.
+(d) ¿A qué altura las densidades de ambos gases son iguales?
+5. Un sistema está compuesto por N partı́culas. La energı́a de cada partı́cula depende de n coorP
+denadas qi y es de la forma E = i ci qi2 . Asumiendo que la función de distribución es la de
+Maxwell-Boltzmann, f (q1 , . . . , qn ) = Ae−βE(q1 ,...,qn ) , hallar:
+(a) La constante A.
+(b) La energı́a promedio por partı́cula.
+6. Como aplicación del problema anterior, considere un sólido como un sistema de N partı́culas
+unidas entre sı́ por resortes de constantes Ki (i = x, y, z).
+(a) Hallar la energı́a media de este sistema.
+(b) Calcular el calor especı́fico molar (ley de Dulong y Petit).
+7. La función de distribución de velocidades escalares de las moléculas de un gas es
+f (v) = Av 3 e−βmv
+1
+
+2 /2
+
+.
+
+(a) Hallar A.
+(b) Hallar la velocidad cuadrática media.
+8. La función de distribución de velocidades escalares de un grupo de N partı́culas está dada por
+f (v) =
+
+(
+
+A si 0 < v < L
+0 en otro caso.
+
+(a) Graficar la función de distribución.
+(b) Hallar la constante A en función de N y V .
+(c) Hallar la velocidad media en función de V .
+9. Un gas ideal de átomos de masa m está confinado en un recinto a temperatura T . Dichos átomos
+emiten luz que emerge del recinto por un orificio. Un átomo en reposo emite luz con frecuencia
+ν0 , mientras que un atomo en movimiento emite luz con frecuencia ν = ν0 (1 + vx /c), donde vx es
+la componente de la velocidad en la dirección de emisión y c la velocidad de la luz. Por lo tanto, la
+radiación que emerge del recinto está caracterizada por una distribución de intensidades I(ν)dν,
+que es proporcional a la probabilidad de que la radiación tenga frecuencia comprendida entre ν y
+ν + dν. Calcular:
+(a) La distribución de intensidades I(ν)dν.
+(b) La frecuencia media observada.
+(c) La dispersión cuadrática media de la frecuencia.
+10. Sea un gas de N partı́culas con carga q y masa m entre dos cilindros coaxiales de radios a y b
+y longitud L (L ≫ b/a). El cilindro interno está cargado de forma tal que las partı́culas tienen
+una energı́a potencial V (r) = C ln(r/a). Suponga que en el equilibrio todas las partı́culas están
+suficientemente lejos entre sı́. En estas condiciones hallar:
+(a) La función de distribución.
+(b) La densidad de partı́culas a una distancia r del eje.
+11. Una molécula está constituida por cuatro átomos en los vértices de un tetraedro.
+(a) ¿Cuál es el número de grados de libertad de traslación, rotación, y vibración de esta molécula?
+(b) Teniendo en cuenta el principio de equipartición, ¿qué valores tienen CV y γ en un gas
+compuesto por estas moléculas?
+12. Una ampolla esférica de 10 cm de radio se mantiene a una temperatura de 25 ◦ C, excepto 1 cm2
+que se mantiene a muy baja temperatura. La ampolla contiene vapor de agua inicialmente a una
+presión de 10 mm de mercurio. Suponer que cada molécula de agua que choca contra la superficie
+frı́a se condensa y se adhiere a ella. ¿Cuánto tiempo se necesita para que la presión decrezca hasta
+10−4 mm de mercurio?
+13. ¿Cual es la frecuencia de choque de una molécula de nitrógeno (a) a 300 K y presión atmosférica,
+y (b) a 300 K y presión de 10−6 atm?
+14. El recorrido libre medio de las moléculas de cierto gas a 25 ◦ C es 2.63 × 10−5 m.
+(a) Si el radio de la molécula es 2.56 × 10−10 m, hallar la presión del gas.
+(b) Calcular el número de choques que efectúa una molécula por metro de recorrido.
+
+2
+
+15. Considere un grupo de moléculas de oxı́geno, cuyas moléculas inician sus recorridos libres simultaneamente. La presión es tal que el recorrido libre medio es de 2 cm. ¿Después de cuánto tiempo
+quedará aún la mitad de las moléculas del grupo sin haber efectuado ningún choque? Suponer que
+todas las moléculas tienen velocidad igual a la media y que la temperatura es 300 K.
+16. Estimar el “radio” de la molécula de oxı́geno a partir de (a) el valor experimental de la viscosidad
+del oxı́geno, η = 19.2 × 10−6 N s m−2 , y (b), los valores experimentales de la conductividad
+térmica κ = 24.0 W s−1 K−1 y del calor especı́fico a volumen constante CV = 20.9 J mol−1 K−1 .
+
+3
+
+
